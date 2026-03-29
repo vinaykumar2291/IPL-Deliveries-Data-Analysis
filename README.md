@@ -41,3 +41,35 @@ IPL-Data-Analysis
 ## Purpose
 
 The goal of this project is to practice basic data analysis using Python and understand how to work with real-world sports datasets.
+# 🏏 IPL Stats Analytics Dashboard
+
+[![Live Demo](https://img.shields.io/badge/Live-Dashboard-blue)](https://ipl-stats-analytics.youware.app)
+
+🔗 **Live Dashboard:**
+https://ipl-stats-analytics.youware.app
+
+---
+
+## 📊 Features
+
+* Player performance analysis
+* Runs vs Dot Ball Rate
+* Dismissal type visualization
+* Interactive dashboard
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML, CSS, JavaScript
+* Data Visualization
+
+---
+
+
+---
+
+## 💡 Project Description
+
+This project analyzes IPL data to generate insights such as player performance, scoring trends, and dismissal patterns using an interactive dashboard.
+
